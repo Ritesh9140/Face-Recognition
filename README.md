@@ -2,7 +2,7 @@
 
 A Python-based attendance tracker that uses face recognition and blink/liveness detection to monitor student attendance across multiple sessions throughout the day. Students must reappear after a configurable minimum interval to be marked as present.
 
-## Features
+## Featuress
 
 - **Session Management**: Automatically divides the day into sessions (9:00–10:10, 10:10–11:10, … up to 20:00).
 - **Face Recognition**: Identifies known faces using `face_recognition` and preloaded encodings.
